@@ -1,7 +1,7 @@
 # Projet: nouveau_projet
      
-     Créé le: [DATE_ACTUELLE]
-     Auteur: [VOTRE_NOM]
+     Créé le: [05.05.2025]
+     Auteur: [Umit Karabulut]
      
      ## Description
      
